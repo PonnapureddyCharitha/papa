@@ -2,5 +2,3 @@
 landing
 hdfgdf
 <html>
-jnklnlkn
-gvgyvgyb
